@@ -9,3 +9,34 @@ img {
     height: 40px;
     width: 40px;
 }
+
+.createItemContainer {
+    margin: 5px, 0px;
+}
+
+input,
+button {
+    color: #000;
+    cursor: pointer;
+    border: none;
+    padding: 0px, 20px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
+}
+
+input:hover,
+button:hover {
+    background-color: #e9e9e9;
+}
+
+input {
+    padding: 0px 10px;
+}
+
+button {
+    margin-left: 5px;
+}
